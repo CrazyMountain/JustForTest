@@ -1,2 +1,18 @@
 hello world
 yfdsaf  ds fsda f df
+best is yet to come
+
+
+
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;
+C:\Program Files (x86)\AMD APP\bin\x86_64;
+C:\Program Files (x86)\AMD APP\bin\x86;
+%SystemRoot%\system32;%SystemRoot%;
+%SystemRoot%\System32\Wbem;
+C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;
+C:\Program Files (x86)\Scala\bin;D:\Microsoft VS Code\bin;
+D:\Git\cmd;
+%systemroot%\System32\WindowsPowerShell\v1.0\;
+D:\apache-maven-3.5.3\bin;
+C:\Program Files\Java\jdk1.8.0_171\bin;
+C:\Program Files\Java\jre1.8.0_171\bin
